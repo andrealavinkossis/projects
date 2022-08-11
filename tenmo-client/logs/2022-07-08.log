@@ -1,4 +1,0 @@
-2022-07-08T16:20:57.5438995 401 : [no body]
-2022-07-08T17:05:49.4396067 400 : [{"timestamp":"2022-07-08T21:05:49.393+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
-2022-07-08T17:08:28.6747125 401 : [no body]
-2022-07-08T17:36:21.5997441 401 : [no body]
